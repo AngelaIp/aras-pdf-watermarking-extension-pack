@@ -5,11 +5,11 @@
 This package adds additional functionality to the Aras Watermark feature and makes it more flexible to use.
 
 Current / planned features:
-- Print classification specific watermarks. 
+- Print classification specific watermarks
 - Support xClassification
 - Update Document Item after Watermark print
 - Print multiple watermarks
-- Trigger watermark task independent from lifecycle
+- Trigger watermark tasks independent from lifecycle
 - ...
 
 
